@@ -1,0 +1,14 @@
+# Ignorar JDK e módulos pesados
+frontend/oracleJdk-26/
+*.log
+*.tmp
+*.bak
+
+# Ignorar arquivos de build
+/bin/
+/target/
+/dist/
+
+# Ignorar configurações locais
+.DS_Store
+node_modules/

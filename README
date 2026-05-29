@@ -1,0 +1,104 @@
+NutriFitKids
+Sistema Inteligente de Acompanhamento Nutricional Escolar, desenvolvido para auxiliar escolas e profissionais da saúde no monitoramento nutricional infantil, promovendo hábitos alimentares saudáveis desde cedo.
+
+📌 Objetivo do Projeto
+O projeto tem como objetivo automatizar o acompanhamento nutricional infantil dentro do ambiente escolar, utilizando conceitos de algoritmos e programação para:
+
+Organizar informações de forma estruturada
+
+Calcular automaticamente o IMC
+
+Gerar relatórios nutricionais claros e acessíveis
+
+Apoiar decisões de professores e profissionais da saúde
+
+🚀 Funcionalidades
+Cadastro de crianças — registro de dados pessoais e físicos
+
+Cálculo automático do IMC — aplicação direta da fórmula
+
+Classificação nutricional — categorização em faixas de saúde
+
+Dashboard com gráficos — visualização intuitiva dos dados
+
+Sugestões alimentares — recomendações baseadas na classificação
+
+Relatórios nutricionais — exportação de informações organizadas
+
+Organização por turma — agrupamento por classe escolar
+
+🧮 Cálculo do IMC
+O sistema realiza automaticamente o cálculo do IMC utilizando a fórmula:
+
+𝐼
+𝑀
+𝐶
+=
+𝑝
+𝑒
+𝑠
+𝑜
+𝑎
+𝑙
+𝑡
+𝑢
+𝑟
+𝑎
+2
+💻 Tecnologias Utilizadas
+Front-end
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Chart.js
+
+Armazenamento
+
+LocalStorage
+
+Back-end (planejamento futuro)
+
+Java
+
+MySQL
+
+📊 Objetivo Acadêmico
+Este projeto foi desenvolvido para aplicação prática dos conceitos de:
+
+Algoritmos
+
+Estruturas condicionais
+
+Estruturas de repetição
+
+Manipulação de dados
+
+Funções
+
+Organização lógica
+
+Desenvolvimento web
+
+📷 Imagens do Sistema
+Tela Inicial
+(adicionar print com breve legenda)
+
+Dashboard Nutricional
+(adicionar print com breve legenda)
+
+Cadastro de Crianças
+(adicionar print com breve legenda)
+
+👨‍💻 Autores
+Leonardo Silva Freitas — LinkedIn | GitHub
+
+Matheus Andriguetto Farias — LinkedIn | GitHub
+
+📖 Contexto Acadêmico
+Universidade Anhembi Morumbi
+Curso: Análise e Desenvolvimento de Sistemas
+Ano: 2026
